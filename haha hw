@@ -1,0 +1,18 @@
+print("Hello")
+print(3)
+print("Welcome to Python \n")
+print("hello",5)
+print("welcome to the ", end="Python")
+
+import keyword 
+print("Python keywords are as follows \n")
+print(keyword.kwlist)
+
+x = 9
+y = "AQK"
+print(x)
+print(y)
+coding = "Love coding"
+print("coding")
+name = input("Enter your name: ")
+print("\nHello", name)
